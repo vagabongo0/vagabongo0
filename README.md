@@ -43,3 +43,9 @@ I’m passionate about continuous learning, incident response, and improving det
 
 ### ⚡ Fun fact
 I believe that good cybersecurity starts with curiosity, discipline, and continuous learning not just tools.
+---
+
+## 🔗 Featured Projects  
+- [Splunk Detection Labs](https://github.com/vagabongo0/Splunk-Detection-Labs)  
+- [Microsoft Sentinel KQL Queries](https://github.com/vagabongo0/Sentinel-KQL-Queries)  
+- [Incident Response Reports](https://github.com/vagabongo0/Incident-Response-Reports)
